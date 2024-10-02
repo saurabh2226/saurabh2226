@@ -32,14 +32,14 @@
 - Frontend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,redux,tailwind,materialui" />
+    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,redux,tailwind" />
   </a>
 </p>
 
 - Backend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,laravel,java,nodejs,py,spring,flask,fastapi,express,nestjs" />
+    <img src="https://skillicons.dev/icons?i=nodejs,restapi,express,nestjs" />
   </a>
 </p>
 
@@ -53,14 +53,14 @@
 - Cloud Servers
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=azure,aws,gcp,firebase,cloudflare" />
+    <img src="https://skillicons.dev/icons?i=azure,aws,firebase,cloudflare" />
   </a>
 </p>
 
 - Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,docker,figma,xd,idea,vscode,postman,linux" />
+    <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,linux" />
   </a>
 </p>
 
@@ -71,11 +71,11 @@
         <tr>
             <td>
                 <img
-                    src="https://github-readme-stats.vercel.app/api?username=sheelganvir&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=algolia" />
+                    src="https://github-readme-stats.vercel.app/api?username=saurah2226&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=algolia" />
             </td>
             <td>
                 <img
-                    src="https://github-readme-streak-stats.herokuapp.com?user=sheelganvir&theme=algolia&hide_border=true" />
+                    src="https://github-readme-streak-stats.herokuapp.com?user=saurabh2226&theme=algolia&hide_border=true" />
             </td>
         </tr>
 </table>
@@ -83,7 +83,7 @@
 <table>
         <tr>
             <td>
-                <img src="https://github-readme-activity-graph.vercel.app/graph?username=sheelganvir&theme=react-dark&hide_border=true" />
+                <img src="https://github-readme-activity-graph.vercel.app/graph?username=saurabh2226&theme=react-dark&hide_border=true" />
             </td>
         </tr>
 </table>
@@ -91,21 +91,17 @@
 <table>
         <tr>
             <td>
-                <img src="https://stats.quine.sh/sheelganvir/github?theme=dark">
+                <img src="https://stats.quine.sh/saurabh2226/github?theme=dark">
             </td>
             <td>
-                <img src="https://stats.quine.sh/sheelganvir/languages-over-time?theme=dark">
+                <img src="https://stats.quine.sh/saurabh2226/languages-over-time?theme=dark">
             </td>
         </tr>
 </table>
 
 ![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
  
-  
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=sheelganvir&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-[![An image of @sheelganvir's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sheelganvir)](https://holopin.io/@sheelganvir)
 
 
 <div align="center"> 
