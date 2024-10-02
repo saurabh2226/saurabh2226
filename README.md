@@ -69,10 +69,7 @@
 # 📊 GitHub Stats:
 <table>
         <tr>
-            <td>
-                <img
-                    src="https://github-readme-stats.vercel.app/api?username=saurah2226&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=algolia" />
-            </td>
+            
             <td>
                 <img
                     src="https://github-readme-streak-stats.herokuapp.com?user=saurabh2226&theme=algolia&hide_border=true" />
