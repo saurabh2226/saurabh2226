@@ -114,43 +114,212 @@
 
 <!-- ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)	![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) <img alt="NodeJS" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" style="margin:2px;"/> ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) <img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white" style="margin:2px;"/> <img alt="GitHub" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" style="margin:2px;"/> ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/-VisualStudioCode-000000?style=for-the-badge&logo=VisualStudioCode) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) -->
-# 📊 GitHub Stats:
-<table>
-       <tr>
-            <td>
-                <img
-                    src="https://github-readme-streak-stats.herokuapp.com?user=saurabh2226&theme=algolia&hide_border=true" />
-            </td>
-        </tr>
-</table>
 
 
-
-<table>
+<!-- Futuristic Skills Matrix -->
+<div align="center">
+  <h2>🔮 SKILL MATRIX</h2>
+  
+  <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+    <!-- First Row -->
+    <div align="center">
+      <table>
         <tr>
-            <td>
-                <img src="https://github-readme-activity-graph.vercel.app/graph?username=saurabh2226&theme=react-dark&hide_border=true" />
-            </td>
+          <td align="center" width="100">
+            <a href="#">
+              <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
+            </a>
+            <br>JavaScript
+          </td>
+          <td align="center" width="100">
+            <a href="#">
+              <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65" />
+            </a>
+            <br>TypeScript
+          </td>
+          <td align="center" width="100">
+            <a href="#">
+              <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
+            </a>
+            <br>Python
+          </td>
+          <td align="center" width="100">
+            <a href="#">
+              <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="65" height="65" />
+            </a>
+            <br>Java
+          </td>
+          <td align="center" width="100">
+            <a href="#">
+              <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="65" height="65" />
+            </a>
+            <br>C++
+          </td>
         </tr>
-</table>
+        <!-- Second Row -->
+        <tr>
+          <td align="center" width="100">
+            <a href="#">
+              <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
+            </a>
+            <br>React
+          </td>
+          <td align="center" width="100">
+            <a href="#">
+              <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="Redux" width="65" height="65" />
+            </a>
+            <br>Redux
+          </td>
+          <td align="center" width="100">
+            <a href="#">
+              <img src="https://techstack-generator.vercel.app/nodejs-icon.svg" alt="Node.js" width="65" height="65" />
+            </a>
+            <br>Node.js
+          </td>
+          <td align="center" width="100">
+            <a href="#">
+              <img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="Webpack" width="65" height="65" />
+            </a>
+            <br>Webpack
+          </td>
+          <td align="center" width="100">
+            <a href="#">
+              <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
+            </a>
+            <br>MySQL
+          </td>
+        </tr>
+        <!-- Third Row -->
+        <tr>
+          <td align="center" width="100">
+            <a href="#">
+              <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="65" height="65" />
+            </a>
+            <br>AWS
+          </td>
+          <td align="center" width="100">
+            <a href="#">
+              <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" />
+            </a>
+            <br>Docker
+          </td>
+          <td align="center" width="100">
+            <a href="#">
+              <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
+            </a>
+            <br>GitHub
+          </td>
+          <td align="center" width="100">
+            <a href="#">
+              <img src="https://techstack-generator.vercel.app/mongodb-icon.svg" alt="MongoDB" width="65" height="65" />
+            </a>
+            <br>MongoDB
+          </td>
+          <td align="center" width="100">
+            <a href="#">
+              <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="Nginx" width="65" height="65" />
+            </a>
+            <br>Nginx
+          </td>
+        </tr>
+      </table>
+    </div>
+  </div>
+</div>
+
+<!-- Animated Skill Bars -->
+<div align="center">
+  <h3>💻 Proficiency Level</h3>
+</div>
+
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://img.shields.io/badge/JavaScript-96%25-blue?style=for-the-badge&logo=javascript&labelColor=282828&color=5badff" alt="JavaScript" />
+      </td>
+      <td>
+        <img src="https://img.shields.io/badge/React-92%25-blue?style=for-the-badge&logo=react&labelColor=282828&color=5badff" alt="React" />
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://img.shields.io/badge/Node.js-89%25-blue?style=for-the-badge&logo=node.js&labelColor=282828&color=5badff" alt="Node.js" />
+      </td>
+      <td>
+        <img src="https://img.shields.io/badge/Python-85%25-blue?style=for-the-badge&logo=python&labelColor=282828&color=5badff" alt="Python" />
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://img.shields.io/badge/MongoDB-88%25-blue?style=for-the-badge&logo=mongodb&labelColor=282828&color=5badff" alt="MongoDB" />
+      </td>
+      <td>
+        <img src="https://img.shields.io/badge/Java-82%25-blue?style=for-the-badge&logo=openjdk&labelColor=282828&color=5badff" alt="Java" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+
+<br>
+
+## <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width="45px">&nbsp; Let's Connect!
+
+<div align="center">
+ 
+  <a href="https://www.linkedin.com/in/saurabh-kumar-3ab422255/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+
+ <a href="https://leetcode.com/u/saurabh0202/" target="_blank">
+  <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
+</a>
+
+ <a href="https://codeforces.com/profile/saurabh_codes" target="_blank">
+  <img src="https://img.shields.io/badge/-Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+  <a href="#">
+    <img src="https://img.shields.io/badge/🔥_My_Current_Focus-building_scalable_systems-9cf?style=for-the-badge&labelColor=black&color=6e4aff" alt="Current Focus" />
+  </a>
+</div>
+<br>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/saurabh2226/saurabh2226/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/saurabh2226/saurabh2226/output/github-snake.svg" />
+    <img alt="GitHub Snake Animation" src="https://raw.githubusercontent.com/Abhijeet-ist/saurabh2226/output/github-snake.svg" />
+  </picture>
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&animation=fadeIn" width="100%"/>
+</div>
+
+
  
 
 
 
-<div align="center"> 
-  
+<div align="center">
+  <h2 align="center">Leetcode Info</h2>
+  <p align="center">
+    <a href="https://leetcode.com/saurabh0202/" target="_blank">
+      <img src="https://leetcode.com/static_assets/marketing/2023-50.gif" alt="jyot" height="200" width="200" />
+    </a>
+    <a href="https://leetcode.com/saurabh0202/" target="_blank">
+      <img src="https://assets.leetcode.com/static_assets/marketing/2024-100-new.gif" alt="jyot" height="200" width="200" />
+    </a>
+  </p>
+</div>
 
-<h2 align="center">Leetcode Info<h2>
-
-<p align="center">
-  <a href="https://leetcode.com/saurabh0202/" target="_blank"><img align="center" src="https://leetcode.com/static_assets/marketing/2023-50.gif" alt="jyot" height="200" width="200" /></a>
-  
-</p>
-
-<p align="center">
-  <a href="https://leetcode.com/saurabh0202/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-100-new.gif" alt="jyot" height="200" width="200" /></a>
-  
-</p>
 
 
 <br/><br/>
