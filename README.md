@@ -244,7 +244,7 @@
     </tr>
     <tr>
       <td>
-        <img src="https://img.shields.io/badge/Node.js-89%25-blue?style=for-the-badge&logo=node.js&labelColor=282828&color=5badff" alt="Node.js" />
+        <img src="https://img.shields.io/badge/Node.js-89%25-blue?style=for-the-badge&logo=node-dot-js&labelColor=282828&color=5badff" alt="Node.js" />
       </td>
       <td>
         <img src="https://img.shields.io/badge/Python-85%25-blue?style=for-the-badge&logo=python&labelColor=282828&color=5badff" alt="Python" />
@@ -291,20 +291,6 @@
 </div>
 <br>
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/saurabh2226/saurabh2226/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/saurabh2226/saurabh2226/output/github-snake.svg" />
-    <img alt="GitHub Snake Animation" src="https://raw.githubusercontent.com/Abhijeet-ist/saurabh2226/output/github-snake.svg" />
-  </picture>
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&animation=fadeIn" width="100%"/>
-</div>
-
-
- 
 
 
 
@@ -320,7 +306,8 @@
   </p>
 </div>
 
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&animation=fadeIn" width="100%"/>
+</div>
 
-
-<br/><br/>
 
