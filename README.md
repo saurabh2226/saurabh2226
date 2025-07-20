@@ -48,7 +48,6 @@
   
   <h3>🚀 FRAMEWORKS & LIBRARIES</h3>
   <a href="#"><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" height="30" /></a>
-
   <a href="#"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" height="30" /></a>
   <a href="#"><img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" height="30" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white" height="30" /></a>
@@ -60,7 +59,6 @@
   <h3>🛠️ TOOLS & PLATFORMS</h3>
   <a href="#"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="30" /></a>
   <a href="#"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="30" /></a>
-
   <a href="#"><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" height="30" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" height="30" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" height="30" /></a>
@@ -71,11 +69,9 @@
   <h3>💻 IDEs & TEXT EDITORS</h3>
   <a href="#"><img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" height="30" /></a>
   <a href="#"><img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" height="30" /></a>
-
   <a href="#"><img src="https://img.shields.io/badge/Replit-667881?style=for-the-badge&logo=replit&logoColor=white" height="30" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" height="30" /></a>
   <a href="#"><img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" height="30" /></a>
-
   <a href="#"><img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" height="30" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white" height="30" /></a>
   
@@ -89,7 +85,6 @@
   <h3>💻 WORKSPACE</h3>
   <a href="#"><img src="https://img.shields.io/badge/Windows_11-0078D6?style=for-the-badge&logo=windows&logoColor=white" height="30" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" height="30" /></a>
-
   <a href="#"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" height="30" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" height="30" /></a>
 
