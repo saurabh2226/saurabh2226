@@ -296,7 +296,7 @@
       <img src="https://assets.leetcode.com/static_assets/marketing/2024-100-new.gif" alt="jyot" height="200" width="200" />
     </a>
     <a href="https://leetcode.com/saurabh0202/" target="_blank">
-      <img src="https://leetcode.com/static_assets/marketing/2024-200-new.gif" alt="jyot" height="200" width="200" />
+      <img src="https://assets.leetcode.com/static_assets/marketing/2025-200-new.gif" alt="jyot" height="200" width="200" />
     </a>  
   </p>
 </div>
