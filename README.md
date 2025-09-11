@@ -298,6 +298,9 @@
     <a href="https://leetcode.com/saurabh0202/" target="_blank">
       <img src="https://assets.leetcode.com/static_assets/others/200.gif" alt="jyot" height="200" width="200" />
     </a>  
+    <a href="https://leetcode.com/saurabh0202/" target="_blank">
+      <img src="https://assets.leetcode.com/static_assets/marketing/lg365.png" alt="jyot" height="200" width="200" />
+    </a> 
   </p>
 </div>
 
